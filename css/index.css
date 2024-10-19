@@ -1,0 +1,172 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+/* end Import Fonts */
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-background {
+    background-color: red;
+    width: 100%;
+    height: 5em;
+}
+
+.header-content {
+    border: 1px solid yellow;
+    width: 80%;
+    height: 50%;
+    
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-header-logo {
+    color: #BE2233;
+    text-decoration: none;
+    font-size: 35px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+}
+
+.input-search {
+    width: 30em;
+    height: 30px;
+    padding-left: 15px;
+    padding-right: 10px;
+    font-size: 17px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    border: none;
+    border-radius: 4px;
+    background-color:#f4d9d2;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.input-search::placeholder {
+    color: #cc876a
+}
+
+.icon-search {
+    width: 30px;
+
+    position: absolute;
+    top: 50%;
+    left: 69%;
+    transform: translate(-50%, -50%);
+}
+
+.section-account {
+    border: solid 1px yellow;
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-login {
+    width: 30px;
+
+    position: absolute;
+    top: 50%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+
+.a-section {
+    font-size: 13px;
+    font-family: "Playfair Display", serif;
+    font-weight: 400;
+    color: #346d9e;
+    text-decoration: none;
+
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.a-section-account {
+    font-size: 13px;
+    font-family: "Playfair Display", serif;
+    font-weight: 500;
+    color: #cc876a;
+    text-decoration: none;
+
+    position: absolute;
+    top: 59%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+}
+
+.section-card-items {
+    border: solid 1px yellow;
+    width: 80px;
+    height: 40px;
+
+    position: absolute;
+    top: 50%;
+    left: 92%;
+    transform: translate(-50%, -50%);
+}
+
+.icon-car {
+    width: 35px;
+}
+
+.quanty-items {
+    background-color: #cc876a;
+    padding: 4px;
+    width: 29px;
+    height: 27px;
+    border-radius: 150px ;
+    text-align: center;
+    color: white;
+
+    position: absolute;
+    top: 50%;
+    left: 72%;
+    transform: translate(-50%, -50%);
+}
+
+/* Nav Content */
+.nav-background {
+    width: 100%;
+    height: 5em;
+    background-color: blue;
+}
+
+#h1_bruh {
+    width: 1200px;
+    height: 2px;
+    background-color: yellow;
+
+    position: relative;
+    top: 1%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.nav-content {
+    width: 80%;
+
+    border: solid 1px yellow;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* End Content Nav */

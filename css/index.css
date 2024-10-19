@@ -9,13 +9,12 @@
 }
 
 .header-background {
-    background-color: red;
+    background-color: #fffdf0; 
     width: 100%;
     height: 5em;
 }
 
 .header-content {
-    border: 1px solid yellow;
     width: 80%;
     height: 50%;
     
@@ -31,6 +30,7 @@
     font-size: 35px;
     font-family: "Cormorant Garamond", serif;
     font-weight: 1000;
+    padding-left: 30px;
 }
 
 .input-search {
@@ -65,7 +65,6 @@
 }
 
 .section-account {
-    border: solid 1px yellow;
     width: 150px;
     height: 40px;
 
@@ -112,7 +111,6 @@
 }
 
 .section-card-items {
-    border: solid 1px yellow;
     width: 80px;
     height: 40px;
 
@@ -145,13 +143,13 @@
 .nav-background {
     width: 100%;
     height: 5em;
-    background-color: blue;
+    background-color: #fffdf0; 
 }
 
 #h1_bruh {
     width: 1200px;
-    height: 2px;
-    background-color: yellow;
+    height: 3px;
+    background-color: #f4d9d2;
 
     position: relative;
     top: 1%;
@@ -162,11 +160,117 @@
 .nav-content {
     width: 80%;
 
-    border: solid 1px yellow;
     position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
+#a-nav-casacos {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+
+}
+
+#a-nav-body {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-cropped {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-tshirt {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-dress {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-jaquets {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-shorts {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-pants {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-shoes {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
+#a-nav-accessories {
+    color: #345d9e;
+    font-size: 25px;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 1000;
+    text-decoration: none;
+    padding-left: 25px;
+
+}
+
 /* End Content Nav */
+
+/* Banner Content */
+.banner-background {
+    background-color: #f08aa0; 
+    width: 100%;
+    height: 26em;
+}
+/* End of Banner Content */

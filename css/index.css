@@ -304,3 +304,105 @@
 }
 
 /* End of Banner Content */
+
+/* Content Carrousel */
+.carrousel-content {
+    width: 80%;
+    height: 30em;
+    border: 1px solid rebeccapurple;
+
+    position: absolute;
+    top: 135%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* font-family: "Playfair Display", serif; */
+}
+
+#h1-releases {
+    font-size: 35px;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    color: #cc876a;
+}
+
+.carrousel-cards {
+    width: 900px;
+    height: 400px;
+
+    border: 1px solid green;
+
+    position: inherit;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card-1 {
+    width: 201px;
+    height: 300px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+}
+
+#image_1-card {
+    width: 200px;
+    height: 180px;
+
+    position: absolute;
+    top: 22.5%;
+    left: 11.2%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+    width: 100px;
+    height: 25px;
+    border-radius: 5px;
+
+   
+    position: absolute;
+    top: 45%;
+    left: 11%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title {
+    font-family: "Playfair Display", serif;
+    font-size: 18px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 52%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price {
+    font-family: "Playfair Display", serif;
+    font-size: 20px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 60%;
+    left: 6.5%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 69%;
+    left: 10.5%;
+    transform: translate(-50%, -50%);
+}
+
+/* End of Content Carrousel */

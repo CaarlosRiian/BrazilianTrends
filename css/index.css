@@ -304,3 +304,674 @@
 }
 
 /* End of Banner Content */
+
+/* Content Carrousel */
+
+.carrousel-content {
+    width: 80%;
+    height: 53em;
+
+    position: absolute;
+    top: 157%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-releases {
+    font-size: 35px;
+    font-family: "Playfair Display", serif;
+    text-align: center;
+    color: #cc876a;
+}
+
+.carrousel-cards {
+    width: 1079px;
+    height: 820px;
+
+    position: inherit;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.line_1 {
+    width: 1079px;
+    height: 400px;
+
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.card-1 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 12.5%;
+    transform: translate(-50%, -50%);
+}
+
+#image_1-card_1 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_1 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_1 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price-card_1 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 83%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion-card_1 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 92%;
+    left: 38.5%;
+    transform: translate(-50%, -50%);
+}
+
+.card-2 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+}
+
+#image_2-card_2 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_2 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_2 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price-card_2 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 83%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion-card_2 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 92%;
+    left: 38.5%;
+    transform: translate(-50%, -50%);
+}
+
+.card-3 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
+
+#image_3-card_3 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_3 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_3 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price-card_3 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 83%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion-card_3 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 92%;
+    left: 38.5%;
+    transform: translate(-50%, -50%);
+}
+
+.card-4 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+}
+
+#image_4-card_4 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_4 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_4 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price-card_4 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 83%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion-card_4 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 92%;
+    left: 38.5%;
+    transform: translate(-50%, -50%);
+}
+
+.line_2 {
+    width: 1079px;
+    height: 400px;
+
+    position: absolute;
+    top: 74%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
+
+.card-5 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 12.5%;
+    transform: translate(-50%, -50%);
+}
+
+#image_5-card_5 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_5 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_5 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price-card_5 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 83%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion-card_5 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 92%;
+    left: 38.5%;
+    transform: translate(-50%, -50%);
+}
+
+.card-6 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 38%;
+    transform: translate(-50%, -50%);
+}
+
+#image_6-card_6 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_6 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_6 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price-card_6 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 83%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion-card_6 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 92%;
+    left: 38.5%;
+    transform: translate(-50%, -50%);
+}
+
+.card-7 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 63%;
+    transform: translate(-50%, -50%);
+}
+
+#image_7-card_7 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_7 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_7 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-price-card_7 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e; 
+
+    position: absolute;
+    top: 83%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-promotion-card_7 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 150px;
+    height: 40px;
+
+    position: absolute;
+    top: 92%;
+    left: 38.5%;
+    transform: translate(-50%, -50%);
+}
+
+.card-8 {
+    width: 250px;
+    height: 390px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 88%;
+    transform: translate(-50%, -50%);
+}
+
+#image_8-card_8 {
+    width: 250px;
+    height: 240px;
+    border-radius: 4px 4px 0 0;
+
+    position: absolute;
+    top: 30.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#p-release-card_8 {
+    background-color: #345d9e;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    width: 95px;
+    height: 21px;
+    border-radius: 5px;
+    padding-top: 2px;
+
+   
+    position: absolute;
+    top: 61%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-title-card_8 {
+    font-family: "Playfair Display", serif;
+    width: 180px;
+    font-size: 23px;
+    color: #cc876a;
+
+    position: absolute;
+    top: 72%;
+    left: 44%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-info-card_8 {
+    font-family: "Playfair Display", serif;
+    font-size: 24px;
+    color: #346d9e;
+    width: 160px; 
+
+    position: absolute;
+    top: 86%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h3-info-card_8 {
+    font-family: "Playfair Display", serif;
+    font-size: 14px;
+    color: #346d9e; 
+    width: 180px;
+    height: 40px;
+
+    position: absolute;
+    top: 95%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+}
+
+#arrow-path {
+    width: 25px;
+    height: 27px;
+
+    position: absolute;
+    top: 93%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+}
+
+/* End of Content Carrousel */
+

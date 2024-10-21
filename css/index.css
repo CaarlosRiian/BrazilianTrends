@@ -325,12 +325,12 @@
 }
 
 .carrousel-cards {
-    width: 1079px;
+    width: 1080px;
     height: 820px;
 
     position: inherit;
     top: 55%;
-    left: 50%;
+    left: 49.4%;
     transform: translate(-50%, -50%);
 }
 
@@ -975,3 +975,37 @@
 
 /* End of Content Carrousel */
 
+/* others sections */
+
+.other-sections-background {
+    width: 79%;
+    height: 25em;
+
+    position: absolute;
+    top: 267%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#acessory-imagem-section {
+    width: 525px;
+    height: 25em;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 24%;
+    transform: translate(-50%, -50%);
+}
+
+#shoes-imagem-section {
+    width: 524px;
+    height: 25em;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 50%;
+    left: 75.4%;
+    transform: translate(-50%, -50%);
+}
+/* end of others sections */

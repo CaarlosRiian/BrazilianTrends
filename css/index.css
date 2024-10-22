@@ -1014,10 +1014,10 @@
 
 .promotions-content {
     width: 80%;
-    height: 53em;   
+    height: 30em;   
 
     position: absolute;
-    top: 367%;
+    top: 338%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -1031,10 +1031,10 @@
 
 .promotion-cards {
     width: 1080px;
-    height: 820px;
+    height: 450px;
 
     position: inherit;
-    top: 55%;
+    top: 57%;
     left: 49.4%;
     transform: translate(-50%, -50%);
 }
@@ -1044,7 +1044,7 @@
     height: 400px;
 
     position: absolute;
-    top: 25%;
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -1353,5 +1353,117 @@
     transform: translate(-50%, -50%);
 }
 
-
 /* end of Promotion Section */
+
+/* Footer Content */
+
+.footer-background {
+    width: 126%;
+    height: 30em;
+    background-color: #2668A2;
+    
+    position: absolute;
+    top: 165%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.footer-content {
+    border: 1px solid white;
+    width: 1080px;
+    height: 400px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.email-contact {
+    border-bottom: 2px solid #f4d9d2; 
+    width: 1080px;
+    height: 85px;
+
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-email-content {
+    font-size: 24px;
+    color: #ffffff;
+    padding-left: 6px;
+    font-family: "Playfair Display", serif;
+}
+
+#h2-email-content {
+    font-size: 20px;
+    color: #ccad6e;
+    padding-left: 6px;
+    font-family: "Playfair Display", serif;
+}
+
+.email-content-right {
+    width: 530px;
+    height: 70px;
+
+    position: absolute;
+    top: 41%;
+    left: 75.5%;
+    transform: translate(-50%, -50%);
+}
+
+#input-email-content {
+    width: 507px;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    background-color: #f4d9d2; 
+    padding-left: 20px;
+    font-size: 17px;
+
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#input-email-content::placeholder {
+    font-size: 17px;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+}
+
+#button-submit-email {
+    width: 180px;
+    height: 50px;
+    font-size: 17px;
+    color: #f4d9d2; 
+    background-color: #cc876a; 
+    border: none;
+    border-radius: 4px;
+
+    position: absolute;
+    top: 45%;
+    left: 82.7%;
+    transform: translate(-50%, -50%);
+}
+
+#button-submit-email:hover {
+    background-color: #9f6b54; 
+    transition: 0.4s;
+    
+}
+
+#arrow-path-email {
+    width: 25px;
+    height: 25px;
+
+    position: absolute;
+    top: 47%;
+    left: 95%;
+    transform: translate(-50%, -50%);
+}
+
+/* end of Footer Content */

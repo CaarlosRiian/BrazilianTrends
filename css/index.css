@@ -1369,12 +1369,11 @@
 }
 
 .footer-content {
-    border: 1px solid white;
     width: 1080px;
     height: 400px;
 
     position: absolute;
-    top: 50%;
+    top: 47%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -1464,6 +1463,263 @@
     top: 47%;
     left: 95%;
     transform: translate(-50%, -50%);
+}
+
+.content-footer-1 {
+    width: 253px;
+    height: 100px;
+    
+    position: absolute;
+    top: 50%;
+    left: 12%;
+    transform: translate(-50%, -50%);
+}
+
+#content-footer-1-h1 {
+    font-family: "Playfair Display", serif;
+    font-size: 29px;
+    color: white;
+}
+
+.icons-footer {
+    width: 253px;
+    height: 35px;
+    
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#facebook-icon-footer {
+    position: relative;
+    top: 50%;
+    left: 5%;
+    transform: translate(-50%, -50%);
+}
+
+#instagram-icon-footer {
+    position: relative;
+    top: 50%;
+    left: 9%;
+    transform: translate(-50%, -50%);
+}
+
+#twitter-icon-footer {
+    position: relative;
+    top: 57%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+}
+
+#linkedin-icon-footer {
+    position: relative;
+    top: 57%;
+    left: 19%;
+    transform: translate(-50%, -50%);
+}
+
+#pinterest-icon-footer {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 50%;
+    left: 23%;
+    transform: translate(-50%, -50%);
+}
+
+.content-footer-2 {
+    width: 176px;
+    height: 210px;
+    
+    position: absolute;
+    top: 63%;
+    left: 37%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-content-footer-2 {
+    font-family: "Playfair Display", serif;
+    color: white;
+}
+
+.links {
+    width: 174px;
+    height: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#link-1-footer {
+    text-decoration: none;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+}
+
+#link-2-footer {
+    text-decoration: none;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+}
+
+#link-3-footer {
+    text-decoration: none;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+}
+
+#link-4-footer {
+    text-decoration: none;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+
+    position: absolute;
+    top: 47%;
+    left: 11%;
+    transform: translate(-50%, -50%);
+}
+
+#link-5-footer {
+    text-decoration: none;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+
+    position: absolute;
+    top: 59%;
+    left: 21%;
+    transform: translate(-50%, -50%);
+}
+
+#link-6-footer {
+    width: 170px;
+
+    text-decoration: none;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+    
+    position: absolute;
+    top: 71%;
+    left: 48%;
+    transform: translate(-50%, -50%);
+}
+
+#link-7-footer {
+    text-decoration: none;
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    font-size: 15px;
+
+    position: absolute;
+    top: 83%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+}
+
+.content-footer-3 {
+    width: 180px;
+    height: 210px;
+
+    position: absolute;
+    top: 63%;
+    left: 59%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-content-footer-3 {
+    font-family: "Playfair Display", serif;
+    color: white;
+    font-size: 22px;
+}
+
+#phone-call-icon {
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    top: 21%;
+    left: 6%;
+    transform: translate(-50%, -50%);
+}
+
+#p-number-services {
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    width: 120px;
+
+    position: absolute;
+    top: 21%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#letter-icon {
+    width: 20px;
+    height: 20px;
+
+    position: absolute;
+    top: 35%;
+    left: 7%;
+    transform: translate(-50%, -50%);
+}
+
+#p-email-services {
+    color: #ccad6e; 
+    font-family: "Playfair Display", serif;
+    width: 120px;
+
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content-footer-4 {
+    width: 300px;
+    height: 250px;
+
+    position: absolute;
+    top: 59%;
+    left: 210%;
+    transform: translate(-50%, -50%);
+}
+
+#h2-content-footer-4 {
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    color: white;
+
+}
+
+#image_payments {
+    width: 305px;
+    height: 200px;
+
+    position: absolute;
+    top: 57%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.logo-site {
+
+    position: absolute;
+    top: 124%;
+    left: 10%;
+    transform: translate(-50%, -50%);
+}
+
+#h1-logo-footer {
+    font-family: "Playfair Display", serif;
+    font-size: 29px;
+    color: white;
 }
 
 /* end of Footer Content */
